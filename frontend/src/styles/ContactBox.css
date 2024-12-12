@@ -1,0 +1,20 @@
+.contacts-container
+{
+    height:100%;
+    width:30%;
+    background-color: #1a676d;
+    position: absolute;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.contacts-card-container
+{
+    background-color: #028090;
+    width: 85%;
+    height: 80%;
+    border-radius: 1.5rem;
+    position: relative;
+    top: 7%;
+}

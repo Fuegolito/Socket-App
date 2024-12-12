@@ -1,0 +1,37 @@
+.input-textarea
+{
+    font-size: 13px;
+    outline: none !important;
+    border: none;
+    text-align: left;
+    width: 90%;
+    border-radius: 2rem;
+    height: 50px;
+    vertical-align: middle;
+    padding-left: 50px;
+    background-color: #cfcfcf;
+}
+
+body
+{
+    background-color: rgb(177, 177, 177);
+}
+
+.send-button
+{
+    width: 50px;
+    height: 50px;
+    border-radius: 3rem;
+    border: none;
+}
+
+.main-container
+{
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    height: 100%;
+    width: 100%;
+    position: absolute;
+}
+
